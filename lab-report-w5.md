@@ -1,3 +1,5 @@
+# Lab report 3 for week 5
+
 ## `find` command-line options
 
 ***
